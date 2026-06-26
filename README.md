@@ -1,4 +1,4 @@
-# Dhanyantra (crypto elite) by Cryptic algo team  - Sana sanadi & Rujul Pujari
+# Dhanyantra (crypto elite) by Cryptic algo team  - Sana Sanadi & Rujul Pujari
 
 ## Aptos Hackathon Submission
 
